@@ -4,7 +4,7 @@
 
 ### Prerequisites
 - [Node.js](https://nodejs.org/) (v24 or higher)
-- [npm](https://www.npmjs.com/) (v10 or higher)
+- [npm](https://www.npmjs.com/) (v11 or higher)
 
 This section explains how to run the application locally.
 ### Steps
