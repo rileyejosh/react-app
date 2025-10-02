@@ -24,5 +24,6 @@ This section explains how to run the application locally.
    npm run dev
    ```
 4. Access the app at the specified URL e.g., (http://localhost:5173)
+
    ![Screenshot of the Vite app running locally](public/example.png)
    
