@@ -8,23 +8,20 @@
 
 This section explains how to run the application locally.
 ### Steps
-1. Install Node.js with nvm (if necessary):
-   ```cmd
-   nvm install --lts
-   ```
-2. Check for Node.js & NPM
+
+1. Check for Node.js & NPM
    ```cmd
    node -v
    npm -v
    ```
-3. In your terminal, navigate to the project directory and install the project dependencies
+2. In your terminal, navigate to the project directory and install the project dependencies
    ```cmd
    cd react-app
    npm install
    ```
-4. Spin up a development server via Vite
+3. Spin up a development server via Vite
    ```cmd
    npm run dev
    ```
-5. Access the app at the specified URL e.g., (http://localhost:5174/)
+4. Access the app at the specified URL e.g., (http://localhost:5174/)
    
