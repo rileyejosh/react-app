@@ -1,3 +1,5 @@
+# A Simple React + Vite App
+
 ## Running the App
 
 ### Prerequisites
