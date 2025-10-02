@@ -1,0 +1,53 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.app {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+header {
+  background-color: #007bff;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 24px;
+}
+
+main {
+  padding: 20px;
+}
+
+.data-table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 10px 0;
+  margin-bottom: 20px;
+}
+
+.data-table th,
+.data-table td {
+  border: 1px solid #ddd;
+  padding: 12px;
+  text-align: left;
+}
+
+.data-table th {
+  background-color: #f2f2f2;
+  font-weight: bold;
+}
+
+.data-table tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+.data-table tr:hover {
+  background-color: #f1f1f1;
+}
