@@ -1,11 +1,11 @@
-# A Simple React + Vite App
-
 ## Running the App
+
 
 ### Prerequisites
 - [Node.js](https://nodejs.org/) (v24 or higher)
 - [npm](https://www.npmjs.com/) (v11 or higher)
 
+This section explains how to run the application locally.
 ### Steps
 1. Install Node.js with nvm (if necessary):
    ```cmd
