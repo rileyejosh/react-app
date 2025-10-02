@@ -19,7 +19,7 @@
    cd react-app
    npm install
    ```
-4. Spin up a development server 
+4. Spin up a development server via Vite
    ```cmd
    npm run dev
    ```
