@@ -1,5 +1,6 @@
-## Running the App
+# A Simple React + Vite App
 
+## Running the App
 
 ### Prerequisites
 - [Node.js](https://nodejs.org/) (v24 or higher)
